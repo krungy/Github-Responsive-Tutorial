@@ -1,5 +1,7 @@
 # Github-Responsive-Tutorial
 
+#### https://krungy.github.io/Github-Responsive-Tutorial/
+
 ### 1. Desktop (over 1024px)
 <img width="1435" alt="스크린샷 2021-06-05 오후 4 27 53" src="https://user-images.githubusercontent.com/71081893/120884016-8f911a00-c61b-11eb-87f9-326a321b504d.png">
 
